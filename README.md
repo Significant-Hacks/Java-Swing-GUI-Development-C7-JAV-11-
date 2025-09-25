@@ -76,4 +76,5 @@ This project was created by the members of Group 4.
   * [Sechaba Jeremiah Seabata](https://github.com/hitman1c)
   * [Nkopane John Mats'aba](https://github.com/johnmilliato)
   * Rorisang Eric Ntsane
+  * Lecturer: [Dr. Pii Tumelo](https://github.com/PiiTumelo)
   
