@@ -24,13 +24,13 @@ To run this project, you'll need a Java Development Kit (JDK) installed on your 
 1.  **Clone the repository:**
 
     ```bash
-    git clone [Your Repository URL Here]
+    git clone https://github.com/Significant-Hacks/Java-Swing-GUI-Development-C7-JAV-11-
     ```
 
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd [Your Project Folder]
+    cd Java-Swing-GUI-Development-C7-JAV-11-
     ```
 
 3.  **Compile the Java files:**
