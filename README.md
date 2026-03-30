@@ -74,7 +74,7 @@ This project was created by the members of Group 4.
 
   * [David Mohale Kananelo](https://github.com/Significant-Hacks)
   * [Sechaba Jeremiah Seabata](https://github.com/hitman1c)
-  * [Nkopane John Mats'aba](https://github.com/johnmilliato)
+  * [Nkopane John Mats'aba](https://github.com/JOHNMILLY-20)
   * Rorisang Eric Ntsane
   * Lecturer: [Dr. Pii Tumelo](https://github.com/PiiTumelo)
   
